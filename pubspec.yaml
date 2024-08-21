@@ -1,6 +1,7 @@
 name: cached_http_client
-description: A Flutter package for making HTTP requests with automatic caching.
-version: 0.0.1
+description: "A Flutter package for making HTTP requests with automatic caching."
+version: 0.0.2
+repository: https://github.com/azizullo2003/cached_http_client
 homepage: https://www.linkedin.com/in/muhammad-azizullo-gulomov-00a939211
 
 environment:
