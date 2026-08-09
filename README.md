@@ -1,7 +1,6 @@
 # cached_http_client
 
 [![pub package](https://img.shields.io/pub/v/cached_http_client.svg)](https://pub.dev/packages/cached_http_client)
-[![CI](https://github.com/azizullo2003/cached_http_client/actions/workflows/ci.yaml/badge.svg)](https://github.com/azizullo2003/cached_http_client/actions/workflows/ci.yaml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 An HTTP client for Flutter that serves repeated `GET` and `HEAD` requests from a
